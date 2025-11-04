@@ -1,5 +1,7 @@
 **<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=466C47FF&height=120&section=header"/>
 
+<img width=100% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Feiskalterengel18%2Fart%2FBMW-e24-Pixel-Art-916827142&psig=AOvVaw11AJU1SN4doUNxFQxDxDHB&ust=1762382633914000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLD5--PI2ZADFQAAAAAdAAAAABAE"/>
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=50&duration=3800&pause=500&color=FFF&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hey%2C+my+name+is+William+Pascini;I'm+24+Years+Old.+From+Brasil%2C+SP;Welcome+:%29)](https://git.io/typing-svg)

@@ -1,4 +1,9 @@
-**<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=466C47FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=466C47FF&height=120&section=header"/>
+
+<!-- GIF adicionado logo abaixo da parte líquida -->
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc47194c-4389-40b2-b130-e3de76db4ea0/df5uscm-3f16c5f4-c591-4168-bcd8-037911bbf732.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iYzQ3MTk0Yy00Mzg5LTQwYjItYjEzMC1lM2RlNzZkYjRlYTAvZGY1dXNjbS0zZjE2YzVmNC1jNTkxLTQxNjgtYmNkOC0wMzc5MTFiYmY3MzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.b1pbuoE3ceYxT20WYcieAFSSm1ci_sGD3tXIm-ro8OU" width="100%" alt="animated banner"/>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=50&duration=3800&pause=500&color=FFF&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hey%2C+my+name+is+William+Pascini;I'm+24+Years+Old.+From+Brasil%2C+SP;Welcome+:%29)](https://git.io/typing-svg)
 <br/>
@@ -23,8 +28,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer">  </a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+ <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=466C47FF&height=120&section=footer"/>
-**

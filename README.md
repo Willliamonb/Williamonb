@@ -2,7 +2,7 @@
 
 <!-- GIF adicionado logo abaixo da parte líquida --> <p align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ0d2xvdGVjbm12cHVkMm1weWhlM3J6ajMxamR3MW8wb2tsa2IycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif"/> </p>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTM5dHIwd2drY2UxcWd4ODk5aDg2MW9vM29vbHFva2dtNHRhMGg4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btMCltyDvSgF92E/giphy.gif"/> </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=50&duration=3800&pause=500&color=FFF&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hey%2C+my+name+is+William+Pascini;I'm+24+Years+Old.+From+Brasil%2C+SP;Welcome+:%29)](https://git.io/typing-svg)
 <br/>

@@ -2,7 +2,7 @@
 
 <!-- GIF adicionado logo abaixo da parte líquida --> <p align="center">
 <p align="center">
-<img src="https://i.pinimg.com/originals/83/4b/8b/834b8b3d0a09f557c9c9b704e4048110.gif"/> 
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"/> 
 </p>
 
 

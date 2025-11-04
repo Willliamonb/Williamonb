@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=466C47FF&height=120&section=header"/>
 
 <!-- GIF adicionado logo abaixo da parte líquida --> <p align="center">
 <p align="center">

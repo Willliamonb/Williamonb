@@ -1,9 +1,5 @@
 **<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=466C47FF&height=120&section=header"/>
 
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Feiskalterengel18%2Fart%2FBMW-e24-Pixel-Art-916827142&psig=AOvVaw11AJU1SN4doUNxFQxDxDHB&ust=1762382633914000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLD5--PI2ZADFQAAAAAdAAAAABAE](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc47194c-4389-40b2-b130-e3de76db4ea0/df5uscm-3f16c5f4-c591-4168-bcd8-037911bbf732.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iYzQ3MTk0Yy00Mzg5LTQwYjItYjEzMC1lM2RlNzZkYjRlYTAvZGY1dXNjbS0zZjE2YzVmNC1jNTkxLTQxNjgtYmNkOC0wMzc5MTFiYmY3MzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.b1pbuoE3ceYxT20WYcieAFSSm1ci_sGD3tXIm-ro8OU)"/>
-
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=50&duration=3800&pause=500&color=FFF&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hey%2C+my+name+is+William+Pascini;I'm+24+Years+Old.+From+Brasil%2C+SP;Welcome+:%29)](https://git.io/typing-svg)
 <br/>
 

@@ -2,8 +2,15 @@
 
 <!-- GIF adicionado logo abaixo da parte líquida --> <p align="center">
 <p align="center">
-<img src="https://i.pinimg.com/originals/14/64/ad/1464adb13da922871b26fddbc8e52631.gif"/> 
+  <img 
+    src="https://i.pinimg.com/originals/14/64/ad/1464adb13da922871b26fddbc8e52631.gif"
+    alt="animated banner"
+    width="100%"
+    height="350px"
+    style="object-fit: cover; display: block; margin: 0 auto; border-radius: 10px;"
+  />
 </p>
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=50&duration=3800&pause=500&color=FFF&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hey%2C+my+name+is+William+Pascini;I'm+24+Years+Old.+From+Brasil%2C+SP;Welcome+:%29)](https://git.io/typing-svg)

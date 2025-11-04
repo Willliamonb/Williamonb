@@ -3,10 +3,6 @@
 <!-- GIF adicionado logo abaixo da parte líquida --> <p align="center">
 <p align="center">
 <img src="https://i.pinimg.com/originals/14/64/ad/1464adb13da922871b26fddbc8e52631.gif"/> 
-width="100%"
-    height="300px"
-    style="object-fit: cover; display: block; margin: 0 auto; border-radius: 10px;"
-    alt="animated banner"
 </p>
 
 

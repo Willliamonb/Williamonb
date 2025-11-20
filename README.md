@@ -11,9 +11,9 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=williamonb&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="williamonb github stats" />
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamonb&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  <img align="center" width="50%"  height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=willonb&&theme=tokyonight" alt="William Pascini" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wilzinho&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="williamonb github stats" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilzinho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img align="center" width="50%"  height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=wilzinhob&&theme=tokyonight" alt="William Pascini" />
 </div>
 
 <br/>

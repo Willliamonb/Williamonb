@@ -13,7 +13,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wilzinho&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="williamonb github stats" />
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilzinho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  <img align="center" width="50%"  height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=wilzinho&&theme=tokyonight" alt="William Pascini" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wilzinho&theme=dark&hide_border=falso&border_radius=10&locale=pt_BR&short_numbers=falso" alt="GitHub Streak" /></a>
 </div>
 
 <br/>

@@ -13,18 +13,18 @@
 <div align="center">
 
   <img
-    width="49%"
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=Willliamonb&show_icons=true&count_private=true&hide_border=true&title_color=466C47&icon_color=466C47&text_color=c9d1d9&bg_color=0d1117"
-    alt="William Pascini GitHub Stats"
-  />
+  width="49%"
+  height="195px"
+  src="https://github-readme-stats.vercel.app/api?username=Willliamonb&show_icons=true&hide_border=true&title_color=466C47&icon_color=466C47&text_color=c9d1d9&bg_color=0d1117"
+  alt="William Pascini GitHub Stats"
+/>
 
-  <img
-    width="49%"
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willliamonb&layout=compact&hide_border=true&title_color=466C47&text_color=c9d1d9&bg_color=0d1117"
-    alt="Top Languages"
-  />
+  <<img
+  width="49%"
+  height="195px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willliamonb&layout=compact&hide_border=true&title_color=466C47&text_color=c9d1d9&bg_color=0d1117"
+  alt="Top Languages"
+/>
 
 </div>
 

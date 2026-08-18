@@ -4,13 +4,11 @@
   alt="Welcome"
 />
 
-<p align="center">
-  <img
-    src="https://i.pinimg.com/originals/e8/c6/67/e8c6674df5c1d34304c08b66804f3611.gif"
-    width="400"
-    alt="Welcome"
-  />
-</p>
+<img
+  src="https://i.pinimg.com/originals/e8/c6/67/e8c6674df5c1d34304c08b66804f3611.gif"
+  width="70%"
+  alt="Welcome"
+/>
 
 <p align="center">
   <img

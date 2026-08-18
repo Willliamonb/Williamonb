@@ -15,14 +15,14 @@
   <img
     width="49%"
     height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=wilzinho&show_icons=true&count_private=true&hide_border=true&title_color=466C47&icon_color=466C47&text_color=c9d1d9&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api?username=Willliamonb&show_icons=true&count_private=true&hide_border=true&title_color=466C47&icon_color=466C47&text_color=c9d1d9&bg_color=0d1117"
     alt="William Pascini GitHub Stats"
   />
 
   <img
     width="49%"
     height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilzinho&layout=compact&hide_border=true&title_color=466C47&text_color=c9d1d9&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willliamonb&layout=compact&hide_border=true&title_color=466C47&text_color=c9d1d9&bg_color=0d1117"
     alt="Top Languages"
   />
 
@@ -33,7 +33,7 @@
 <div align="center">
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=wilzinho&theme=dark&hide_border=true&border_radius=10&locale=pt_BR&short_numbers=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Willliamonb&theme=dark&hide_border=true&border_radius=10&locale=pt_BR&short_numbers=true"
     alt="GitHub Streak"
   />
 
@@ -44,6 +44,7 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/william-pascini-985948308/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -52,6 +53,16 @@
       width="40"
     />
   </a>
+
+  <a href="https://github.com/Willliamonb" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      alt="GitHub"
+      height="30"
+      width="40"
+    />
+  </a>
+
 </p>
 
 <br>

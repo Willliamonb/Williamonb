@@ -1,9 +1,10 @@
-<img
-  src="https://i.pinimg.com/originals/e8/c6/67/e8c6674df5c1d34304c08b66804f3611.gif"
-  width="70%"
-  alt="Welcome"
-/>
-
+<p align="center">
+  <img
+    src="https://i.pinimg.com/originals/e8/c6/67/e8c6674df5c1d34304c08b66804f3611.gif"
+    width="600"
+    alt="Welcome"
+  />
+</p>
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=50&duration=3800&pause=500&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hey%2C+my+name+is+William+Pascini;I'm+24+Years+Old.+From+Brazil%2C+SP;Welcome+%3A%29"
